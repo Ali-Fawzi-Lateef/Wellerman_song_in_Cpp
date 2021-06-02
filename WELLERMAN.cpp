@@ -3,10 +3,10 @@
 using namespace std;
 
 void magazien() {			// output all that
-	cout << "\tWELLERMAN \t SONG" << endl;
+	cout << "\n\tWELLERMAN \t SONG" << endl;
 	cout << "> please chose which page that you wanna read ^_^ " << endl;
 	cout << "> 9 Pages(0 will show all of them)" << endl;
-	cout << "> Press 10 to Quit\n" << endl;
+	cout << "> Press q to Quit\n" << endl;
 }
 void p1() {					// output all that
 	cout << " There once was a ship that put to sea " << endl;
@@ -69,40 +69,40 @@ void p9() {					// output all that
 
 
 int main() {
-	int x;             // input value
+	char x;             // input value
 	system("color 3"); // set screen colour to blue
 	do {
 	magazien();        // call the function
 	cin >> x;          // get input from the user
-		switch (x) {       // switching options
-		case 1:
+		switch (x) {   // switching options
+		case '1':
 			p1();
 			break;
-		case 2:
+		case '2':
 			p2();
 			break;
-		case 3:
+		case '3':
 			p3();
 			break;
-		case 4:
+		case '4':
 			p4();
 			break;
-		case 5:
+		case '5':
 			p5();
 			break;
-		case 6:
+		case '6':
 			p6();
 			break;
-		case 7:
+		case '7':
 			p7();
 			break;
-		case 8:
+		case '8':
 			p8();
 			break;
-		case 9:
+		case '9':
 			p9();
 			break;
-		case 0:
+		case '0':
 			p1();
 			p2();
 			p3();
@@ -113,7 +113,7 @@ int main() {
 			p8();
 			p9();
 			break;
-		case 10:
+		case 'q':
 			cout << "Goodbye!";
 			break;
 		default:
@@ -121,5 +121,5 @@ int main() {
 			break;
 
 		}
-	} while (x != 10);
+	} while (x != 'q');
 }
