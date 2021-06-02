@@ -68,39 +68,39 @@ void p9() {					// output all that
 
 
 int main() {
-	char x;            // input value
+	int x;            // input value
 	system("color 3"); // set screen colour to blue
 	magazien();        // call the function
 	cin >> x;          // get input from the user
 	switch (x) {       // switching options
-	case'1':
+	case 1:
 		p1();
 		break;
-	case'2':
+	case 2:
 		p2();
 		break;
-	case'3':
+	case 3:
 		p3();
 		break;
-	case'4':
+	case 4:
 		p4();
 		break;
-	case'5':
+	case 5:
 		p5();
 		break;
-	case'6':
+	case 6:
 		p6();
 		break;
-	case'7':
+	case 7:
 		p7();
 		break;
-	case'8':
+	case 8:
 		p8();
 		break;
-	case'9':
+	case 9:
 		p9();
 		break;
-	case'0':
+	case 0:
 		p1();
 		p2();
 		p3();
