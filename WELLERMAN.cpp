@@ -45,20 +45,20 @@ void p6() {// output all that
 	cout << " The captain called all hands and swore " << endl;
 	cout << " He'd take that whale in tow (huh)\n " << endl;
 }
-void p7() {					// output all that
+void p7() {// output all that
 	cout << " Soon may the Wellerman come " << endl;
 	cout << " To bring us sugar and tea and rum (hey) " << endl;
 	cout << " One day, when the tonguin' is done " << endl;
 	cout << " We'll take our leave and go\n " << endl;
 	cout << " Take our leave and go\n " << endl;
 }
-void p8() {					// output all that
+void p8() {// output all that
 	cout << " Soon may the Wellerman come " << endl;
 	cout << " To bring us sugar and tea and rum " << endl;
 	cout << " One day, when the tonguin' is done " << endl;
 	cout << " We'll take our leave and go\n " << endl;
 }
-void p9() {					// output all that
+void p9() {// output all that
 	cout << " Soon may the Wellerman come " << endl;
 	cout << " To bring us sugar and tea and rum (hey) " << endl;
 	cout << " One day, when the tonguin' is done " << endl;
@@ -69,12 +69,12 @@ void p9() {					// output all that
 
 
 int main() {
-	char x;             // input value
-	system("color 3"); // set screen colour to blue
+	char x;// input value
+	system("color 3");// set screen colour to blue
 	do {
-	magazien();        // call the function
-	cin >> x;          // get input from the user
-		switch (x) {   // switching options
+	magazien();// call the function
+	cin >> x;// get input from the user
+		switch (x) {// switching options
 		case '1':
 			p1();
 			break;
@@ -117,9 +117,9 @@ int main() {
 			cout << "Goodbye!";
 			break;
 		default:
-			cout << "invalid option >_< "; //if the user has inputed wrong option
+			cout << "invalid option >_< ";//if the user has inputed wrong option
 			break;
 
 		}
-	} while (x != 'q');
+	} while (x != 'q');//break the loop when user enter q
 }
