@@ -27,19 +27,19 @@ void p3() {// output all that
 	cout << " We'll take our leave and go\n " << endl;
 	cout << " Take our leave and go\n " << endl;
 }
-void p4() {					// output all that
+void p4() {// output all that
 	cout << " Soon may the Wellerman come " << endl;
 	cout << " To bring us sugar and tea and rum " << endl;
 	cout << " One day, when the tonguin' is done " << endl;
 	cout << " We'll take our leave and go\n " << endl;
 }
-void p5() {					// output all that
+void p5() {// output all that
 	cout << " Before the boat had hit the water " << endl;
 	cout << " The whale's tail came up and caught her " << endl;
 	cout << " All hands to the side harpooned and fought her " << endl;
 	cout << " When she dived down below (huh)\n " << endl;
 }
-void p6() {					// output all that
+void p6() {// output all that
 	cout << " She had not been two weeks from shore " << endl;
 	cout << " When down on her a right whale bore " << endl;
 	cout << " The captain called all hands and swore " << endl;
