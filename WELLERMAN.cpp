@@ -20,20 +20,20 @@ void p2() {// output all that.
 	cout << " The captain called all hands and swore " << endl;
 	cout << " He'd take that whale in tow (huh)\n " << endl;
 }
-void p3() {// output all that
+void p3() {// output all that.
 	cout << " Soon may the Wellerman come\a " << endl;
 	cout << " To bring us sugar and tea and rum (hey) " << endl;
 	cout << " One day, when the tonguin' is done " << endl;
 	cout << " We'll take our leave and go\n " << endl;
 	cout << " Take our leave and go\n " << endl;
 }
-void p4() {// output all that
+void p4() {// output all that.
 	cout << " Soon may the Wellerman come\a " << endl;
 	cout << " To bring us sugar and tea and rum " << endl;
 	cout << " One day, when the tonguin' is done " << endl;
 	cout << " We'll take our leave and go\n " << endl;
 }
-void p5() {// output all that
+void p5() {// output all that.
 	cout << " Before the boat had hit the water\a " << endl;
 	cout << " The whale's tail came up and caught her " << endl;
 	cout << " All hands to the side harpooned and fought her " << endl;
