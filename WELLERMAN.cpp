@@ -2,7 +2,7 @@
 #include<windows.h>// for seting the screen colour to blue
 using namespace std;
 
-void magazien() {// output all that
+void magazien() {// output all that.
 	cout << "\n\tWELLERMAN \t SONG" << endl;
 	cout << "> please chose which page that you wanna read ^_^ " << endl;
 	cout << "> 9 Pages(0 will show all of them)" << endl;
