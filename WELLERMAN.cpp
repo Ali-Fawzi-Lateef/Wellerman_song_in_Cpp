@@ -8,13 +8,13 @@ void magazien() {// output all that.
 	cout << "> 9 Pages(0 will show all of them)" << endl;
 	cout << "> Press q to Quit\n" << endl;
 }
-void p1() {// output all that
+void p1() {// output all that.
 	cout << " There once was a ship that put to sea\a " << endl;
 	cout << " The name of the ship was the Billy of Tea " << endl;
 	cout << " The winds blew up, her bow dipped down " << endl;
 	cout << " O blow, my bully boys, blow (huh)\n " << endl;
 }
-void p2() {// output all that
+void p2() {// output all that.
 	cout << " She had not been two weeks from shore\a " << endl;
 	cout << " When down on her a right whale bore " << endl;
 	cout << " The captain called all hands and swore " << endl;
