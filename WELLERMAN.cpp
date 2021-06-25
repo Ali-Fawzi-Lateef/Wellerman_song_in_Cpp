@@ -73,8 +73,8 @@ int main() {
 	system("color 3");// set screen colour to blue.
 	do {
 	magazien();// call the function.
-	cin >> x;// get input from the user
-		switch (x) {// switching options
+	cin >> x;// get input from the user.
+		switch (x) {// switching options.
 		case '1':
 			p1();
 			break;
