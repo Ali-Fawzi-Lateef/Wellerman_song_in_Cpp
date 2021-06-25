@@ -117,9 +117,9 @@ int main() {
 			cout << "Goodbye!";
 			break;
 		default:
-			cout << "invalid option >_< ";//if the user has inputed wrong option
+			cout << "invalid option >_< ";//if the user has inputed wrong option.
 			break;
 
 		}
-	} while (x != 'q');//break the loop when user enter q
+	} while (x != 'q');//break the loop when user enter q.
 }
