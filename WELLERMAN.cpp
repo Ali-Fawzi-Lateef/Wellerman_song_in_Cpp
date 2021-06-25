@@ -69,10 +69,10 @@ void p9() {// output all that.
 
 
 int main() {
-	char x;// input value
-	system("color 3");// set screen colour to blue
+	char x;// input value.
+	system("color 3");// set screen colour to blue.
 	do {
-	magazien();// call the function
+	magazien();// call the function.
 	cin >> x;// get input from the user
 		switch (x) {// switching options
 		case '1':
