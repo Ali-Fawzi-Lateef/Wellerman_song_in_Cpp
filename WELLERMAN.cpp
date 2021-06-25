@@ -39,13 +39,13 @@ void p5() {// output all that.
 	cout << " All hands to the side harpooned and fought her " << endl;
 	cout << " When she dived down below (huh)\n " << endl;
 }
-void p6() {// output all that
+void p6() {// output all that.
 	cout << " She had not been two weeks from shore\a " << endl;
 	cout << " When down on her a right whale bore " << endl;
 	cout << " The captain called all hands and swore " << endl;
 	cout << " He'd take that whale in tow (huh)\n " << endl;
 }
-void p7() {// output all that
+void p7() {// output all that.
 	cout << " Soon may the Wellerman come\a " << endl;
 	cout << " To bring us sugar and tea and rum (hey) " << endl;
 	cout << " One day, when the tonguin' is done " << endl;
