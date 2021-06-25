@@ -52,13 +52,13 @@ void p7() {// output all that.
 	cout << " We'll take our leave and go\n " << endl;
 	cout << " Take our leave and go\n " << endl;
 }
-void p8() {// output all that
+void p8() {// output all that.
 	cout << " Soon may the Wellerman come\a " << endl;
 	cout << " To bring us sugar and tea and rum " << endl;
 	cout << " One day, when the tonguin' is done " << endl;
 	cout << " We'll take our leave and go\n " << endl;
 }
-void p9() {// output all that
+void p9() {// output all that.
 	cout << " Soon may the Wellerman come\a " << endl;
 	cout << " To bring us sugar and tea and rum (hey) " << endl;
 	cout << " One day, when the tonguin' is done " << endl;
