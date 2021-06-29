@@ -2,13 +2,13 @@
 #include<windows.h>// for seting the screen colour to blue
 using namespace std;
 
-void magazien() {// output all that.
+void magazien() {// output all that
 	cout << "\n\tWELLERMAN \t SONG" << endl;
 	cout << "> please chose which page that you wanna read ^_^ " << endl;
 	cout << "> 9 Pages(0 will show all of them)" << endl;
 	cout << "> Press q to Quit\n" << endl;
 }
-void p1() {// output all that.
+void p1() {// output all that
 	cout << " There once was a ship that put to sea\a " << endl;
 	cout << " The name of the ship was the Billy of Tea " << endl;
 	cout << " The winds blew up, her bow dipped down " << endl;
