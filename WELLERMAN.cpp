@@ -1,5 +1,5 @@
 #include<iostream>
-#include<windows.h>// for seting the screen colour to blue
+#include<windows.h>// for seting the screen colour to blue.
 using namespace std;
 
 void magazien() {// output all that.
