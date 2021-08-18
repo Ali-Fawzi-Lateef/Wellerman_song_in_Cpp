@@ -121,5 +121,5 @@ int main() {
 			break;
 
 		}
-	} while (x != 'q');//break the loop when user enter q
+	} while (x != 'q');//break the loop when user enter q.
 }
