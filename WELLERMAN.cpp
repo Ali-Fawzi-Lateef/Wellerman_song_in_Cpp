@@ -33,7 +33,7 @@ void p4() {// output all that.
 	cout << " One day, when the tonguin' is done " << endl;
 	cout << " We'll take our leave and go\n " << endl;
 }
-void p5() {// output all that
+void p5() {// output all that.
 	cout << " Before the boat had hit the water\a " << endl;
 	cout << " The whale's tail came up and caught her " << endl;
 	cout << " All hands to the side harpooned and fought her " << endl;
