@@ -39,7 +39,7 @@ void p5() {// output all that.
 	cout << " All hands to the side harpooned and fought her " << endl;
 	cout << " When she dived down below (huh)\n " << endl;
 }
-void p6() {// output all that
+void p6() {// output all that.
 	cout << " She had not been two weeks from shore\a " << endl;
 	cout << " When down on her a right whale bore " << endl;
 	cout << " The captain called all hands and swore " << endl;
