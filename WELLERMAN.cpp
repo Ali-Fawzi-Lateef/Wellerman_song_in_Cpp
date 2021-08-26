@@ -20,7 +20,7 @@ void p2() {// output all that.
 	cout << " The captain called all hands and swore " << endl;
 	cout << " He'd take that whale in tow (huh)\n " << endl;
 }
-void p3() {// output all that
+void p3() {// output all that.
 	cout << " Soon may the Wellerman come\a " << endl;
 	cout << " To bring us sugar and tea and rum (hey) " << endl;
 	cout << " One day, when the tonguin' is done " << endl;
