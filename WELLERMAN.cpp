@@ -1,45 +1,45 @@
 #include<iostream>
-#include<windows.h>// for seting the screen colour to blue.
+#include<windows.h>// for seting the screen colour to blue
 using namespace std;
 
-void magazien() {// output all that.
+void magazien() {// output all that
 	cout << "\n\tWELLERMAN \t SONG" << endl;
 	cout << "> please chose which page that you wanna read ^_^ " << endl;
 	cout << "> 9 Pages(0 will show all of them)" << endl;
 	cout << "> Press q to Quit\n" << endl;
 }
-void p1() {// output all that.
+void p1() {// output all that
 	cout << " There once was a ship that put to sea\a " << endl;
 	cout << " The name of the ship was the Billy of Tea " << endl;
 	cout << " The winds blew up, her bow dipped down " << endl;
 	cout << " O blow, my bully boys, blow (huh)\n " << endl;
 }
-void p2() {// output all that.
+void p2() {// output all that
 	cout << " She had not been two weeks from shore\a " << endl;
 	cout << " When down on her a right whale bore " << endl;
 	cout << " The captain called all hands and swore " << endl;
 	cout << " He'd take that whale in tow (huh)\n " << endl;
 }
-void p3() {// output all that.
+void p3() {// output all that
 	cout << " Soon may the Wellerman come\a " << endl;
 	cout << " To bring us sugar and tea and rum (hey) " << endl;
 	cout << " One day, when the tonguin' is done " << endl;
 	cout << " We'll take our leave and go\n " << endl;
 	cout << " Take our leave and go\n " << endl;
 }
-void p4() {// output all that.
+void p4() {// output all that
 	cout << " Soon may the Wellerman come\a " << endl;
 	cout << " To bring us sugar and tea and rum " << endl;
 	cout << " One day, when the tonguin' is done " << endl;
 	cout << " We'll take our leave and go\n " << endl;
 }
-void p5() {// output all that.
+void p5() {// output all that
 	cout << " Before the boat had hit the water\a " << endl;
 	cout << " The whale's tail came up and caught her " << endl;
 	cout << " All hands to the side harpooned and fought her " << endl;
 	cout << " When she dived down below (huh)\n " << endl;
 }
-void p6() {// output all that.
+void p6() {// output all that
 	cout << " She had not been two weeks from shore\a " << endl;
 	cout << " When down on her a right whale bore " << endl;
 	cout << " The captain called all hands and swore " << endl;
